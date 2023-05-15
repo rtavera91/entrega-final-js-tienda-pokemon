@@ -1,0 +1,21 @@
+.navegacion {
+    color: white;
+}
+
+.logo {
+    height: 50px;
+}
+
+.img-pokemon{
+    width: 150px;
+    height: 150px;
+    object-fit: contain;
+    margin-top: 1 rem;
+    margin-bottom: 1 rem;
+}
+
+.tarjeta {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem;
+  }
